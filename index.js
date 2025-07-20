@@ -15,7 +15,7 @@ const parser = new Parser({
 
 (async () => {
 
-    const feed = await parser.parseURL('https://chaechae22.tistory.com/');
+    const feed = await parser.parseURL('https://chaechae22.tistory.com/rss');
     
     text += `<ul>`;
     
