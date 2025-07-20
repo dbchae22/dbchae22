@@ -1,0 +1,25 @@
+{
+  "name": "dbchae22",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbchae22/dbchae22.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbchae22/dbchae22/issues"
+  },
+  "homepage": "https://github.com/dbchae22/dbchae22#readme",
+  "description": "",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
