@@ -1,10 +1,14 @@
 import { writeFileSync } from 'node:fs';
 import Parser from "rss-parser";
 
-let text = `# Hi there 👋
+/**
+ * @type {string}
+ */
 
+let text = `
 
 ## 📕 Latest Blog Posts
+
 
 `;
 
